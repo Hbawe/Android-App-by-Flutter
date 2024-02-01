@@ -1,0 +1,8 @@
+num1 =input("enter your first no.:")
+num2 = input("enter your first no.:")
+result = int(num1)+int(num2)
+print (result)
+num1 =input("enter your first no.:")
+num2 = input("enter your first no.:")
+result = float(num1)+float(num2)
+print (result)
